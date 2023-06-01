@@ -1,0 +1,21 @@
+
+.container-card{
+    box-shadow: 2px 2px 2px 2px gray;
+    gap: 1rem;
+    padding: 5px;
+    margin: 5px;
+    width: 360px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+}
+.verDetalles{
+    color: white;
+    background-color: blue;
+    border: 1px solid blue;
+    border-radius: 15px;
+    font-size: medium;
+    padding: 10px;
+}
